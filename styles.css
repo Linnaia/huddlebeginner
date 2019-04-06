@@ -1,0 +1,98 @@
+body {
+  background-color: #674BAF;
+  margin: 100;
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-weight: 400;
+}
+
+.logo {
+  position: relative;
+  top: 45px;
+  left: 65px;
+}
+
+.bg-image {
+  margin: 0;
+  padding-top: 0;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.top-photo {
+  position: relative;
+  top: 135px;
+  left: 65px;
+}
+
+.text {
+  margin: 160px 10px 0 800px;
+  position: absolute;
+  padding-left: 20px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-weight: 700;
+  margin-right: 50px;
+}
+
+.butn {
+  position: absolute;
+  margin-top: 20px;
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #674BAF;
+  font-size: 18px;
+  padding: 18px 55px 18px 55px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #a594d6;
+  background-image: -webkit-linear-gradient(top, #a594d6, #8673ba);
+  background-image: -moz-linear-gradient(top, #a594d6, #8673ba);
+  background-image: -ms-linear-gradient(top, #a594d6, #8673ba);
+  background-image: -o-linear-gradient(top, #a594d6, #8673ba);
+  background-image: linear-gradient(to bottom, #a594d6, #8673ba);
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 100px;
+  position: relative;
+}
+
+.icons {
+  margin: 150px 50px auto 1100px;
+}
+
+i {
+  margin-right: 15px;
+}
+
+.fab fa-facebook-f {
+  color: white;
+  margin: 10px;
+}
+
+.fab fa-twitter {
+  color: white;
+  margin: 10px;
+}
+
+.fab fa-instagram {
+  color: white;
+  margin: 10px;
+}
